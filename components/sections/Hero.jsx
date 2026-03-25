@@ -85,7 +85,7 @@ export default function Hero() {
             transition={{ delay: 0.3 }}
           >
             <h1 className="text-5xl md:text-7xl font-bold mb-6">
-              Hi, I'm <span className="gradient-text">Abhishek <span className="inline-block w-3"></span> Kumar</span>
+              Hi, I&apos;m <span className="gradient-text">Abhishek <span className="inline-block w-3"></span> Kumar</span>
             </h1>
 
             <div className="h-20 md:h-24 mb-8">

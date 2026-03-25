@@ -11,11 +11,13 @@ import Certificates from "@/components/sections/Certificates";
 import Contact from "@/components/sections/Contact";
 import Footer from "@/components/Footer";
 import BackgroundEffects from "@/components/BackgroundEffects";
+import FloatingStars from "@/components/FloatingStars";
 
 export default function Home() {
   return (
     <main className="relative min-h-screen overflow-x-hidden">
       <BackgroundEffects />
+      <FloatingStars />
       <Navigation />
       <Hero />
       <About />

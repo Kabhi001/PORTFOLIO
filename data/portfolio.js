@@ -78,26 +78,34 @@ export const certificates = [
     {
         title: "C++ Programming: OOPs And DSA",
         issuer: "CSE Pathshala",
-        date: "August 2025",
+        date: "Aug 2025",
+        description: "Mastered Object-Oriented Programming concepts and Data Structures & Algorithms using C++, including advanced topics like trees, graphs, dynamic programming, and algorithm optimization techniques.",
         link: "https://drive.google.com/file/d/172fbEhjl5Ldj1fCfKGqZvWjmsbuCU5Qo/view",
+        image: "/cert-cpp.jpg",
     },
     {
         title: "Introduction to Generative AI",
         issuer: "Google",
-        date: "July 2025",
+        date: "Jul 2025",
+        description: "Explored foundational concepts of Generative AI, including large language models, prompt engineering, and practical applications of AI in modern software development and content creation.",
         link: "https://drive.google.com/file/d/1VUEyhN0BHiJI0fQ6DBQeiQyu9jiZUWDI/view",
+        image: "/cert-ai.jpg",
     },
     {
         title: "Cloud Computing",
         issuer: "Swayam (NPTEL)",
-        date: "April 2025",
+        date: "Apr 2025",
+        description: "Gained comprehensive knowledge of cloud computing architectures, virtualization, distributed systems, and cloud service models (IaaS, PaaS, SaaS) with hands-on experience in cloud platforms.",
         link: "https://drive.google.com/file/d/1BIerMlZaIYxKFFp7A79ovIuOkRGPb2wu/view",
+        image: "/cert-cloud.jpg",
     },
     {
         title: "Responsive Web Design",
         issuer: "freeCodeCamp",
-        date: "October 2023",
+        date: "Oct 2023",
+        description: "Built responsive, mobile-first web applications using HTML5, CSS3, Flexbox, Grid, and modern design principles. Created accessible and user-friendly interfaces across all device sizes.",
         link: "https://drive.google.com/file/d/1orQh1YlSYLvf_ZWnZbtWhCm-8FgdH3EP/view",
+        image: "/cert-web.jpg",
     },
 ];
 

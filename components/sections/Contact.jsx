@@ -62,7 +62,7 @@ export default function Contact() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            Let's Work <span className="bg-gradient-to-r from-primary-400 to-accent-400 bg-clip-text text-transparent">Together</span>
+            Let&apos;s Work <span className="bg-gradient-to-r from-primary-400 to-accent-400 bg-clip-text text-transparent">Together</span>
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-primary-500 to-accent-500 mx-auto rounded-full" />
         </motion.div>
