@@ -42,7 +42,7 @@ export const metadata = {
     siteName: "Abhishek Kumar Portfolio",
     images: [
       {
-        url: "/profile.jpg",
+        url: "/profile.jpeg",
         width: 1200,
         height: 630,
         alt: "Abhishek Kumar - Full Stack Developer",
@@ -53,7 +53,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Abhishek Kumar - Full Stack Developer",
     description: "Full Stack Developer specializing in React, Node.js, and MongoDB",
-    images: ["/profile.jpg"],
+    images: ["/profile.jpeg"],
     creator: "@abhishekkumar",
   },
   verification: {

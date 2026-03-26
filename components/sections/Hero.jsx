@@ -40,9 +40,9 @@ export default function Hero() {
             <div className="absolute inset-0 bg-gradient-to-r from-primary-500 to-accent-500 rounded-full blur-[40px] opacity-40 animate-pulse" />
             <div className="relative w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-primary-500/50 shadow-[0_0_50px_rgba(0,212,255,0.3)]">
               <img
-                src="/profile.jpg"
+                src="/profile.jpeg"
                 alt="Abhishek Kumar"
-                className="w-full h-full object-cover object-[center_20%]"
+                className="w-full h-full object-cover object-[center_35%]"
               />
             </div>
             
